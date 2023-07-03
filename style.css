@@ -11,17 +11,17 @@ h5 {color:blue
 p {font-size:150%;}
 p {text-align:center;}
 h6 {color:brown}
-#mario {margin-left:50%;}
+#mario {margin-left:60%;}
 h2 {margin-left:40%;}
-#ml {margin-left:30%;}
+#ml {margin-left:25%;}
 h3 {margin-left: 40%;}
-#pr {margin-left: 30%;}
+#pr {margin-left: 25%;}
 h4 {margin-left: 40%;}
-#bs {margin-left: 30%;}
+#bs {margin-left: 25%;}
 h5 {margin-left: 40%;}
-#cog {margin-left: 30%;}
+#cog {margin-left: 25%;}
 h6 {margin-left: 40%;}
-#gorila {margin-left: 30%;}
+#gorila {margin-left: 25%;}
 #gorila {width: 30%;}
 #cog {width: 30%;}
 #pr {width: 30%;}
@@ -33,3 +33,4 @@ h3 {font-size: 200%;}
 h4{ font-size: 200%;}
 h5 {font-size: 200%;}
 h6 {font-size: 200%;}
+h1 {border:(red;}
