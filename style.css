@@ -12,15 +12,15 @@ p {font-size:150%;}
 p {text-align:center;}
 h6 {color:brown}
 #mario {margin-left:60%;}
-h2 {margin-left:40%;}
+h2 {text-align: center;}
 #ml {margin-left:25%;}
-h3 {margin-left: 40%;}
+h3 {text-align: center;}
 #pr {margin-left: 25%;}
-h4 {margin-left: 40%;}
+h4 {text-align: center;}
 #bs {margin-left: 25%;}
-h5 {margin-left: 40%;}
+h5 {text-align: center;}
 #cog {margin-left: 25%;}
-h6 {margin-left: 40%;}
+h6 {text-align: center;}
 #gorila {margin-left: 25%;}
 #gorila {width: 30%;}
 #cog {width: 30%;}
